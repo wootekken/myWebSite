@@ -1,0 +1,8 @@
+/* 만약 웹 브라우저에서 css 코드 볼때 한글이 깨지면 아래 추가 */
+/* @charset 'utf-8' */ 
+
+/* 레이아웃 */
+#wrap {width: 100%;}
+#header {width: 100%; height: 325px; background-color: #111;}
+#contents {width: 100%; height: 800px; background-color: #222;}
+#footer {width: 100%; height: 200px; background-color: #333;}
